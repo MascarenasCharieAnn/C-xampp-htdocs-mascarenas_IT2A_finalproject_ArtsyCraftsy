@@ -1,0 +1,18 @@
+div.container{
+    min-height: 500px;
+}
+
+.icon-header{
+    width: 200px;
+}
+
+.nav-pills > li > a.active{
+  background-color:#F6BE00 !important;
+  color:black !important;
+}
+
+.card{
+min-height: 100%;
+	
+}
+

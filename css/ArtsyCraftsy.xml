@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArtsyCraftsy>
+
+	<Home>
+		<heading_1>Welcome to Artsy Craftsy</heading_1>
+		<paragraph>Explore Famous Paintings Of All Time In The History Of Art</paragraph>
+		<images>
+			<img>Logo.png</img>
+			<img>Cover.jpg</img>
+		</images>
+			<description>A picture is worth a thousand words, and like texts, art is often meant to be “read” through critical deconstruction. Art is a highly diverse range of human activities engaged in creating visual, auditory, or performed artifacts, artworks, that express the author’s imaginative or technical skill, and are intended to be appreciated for their beauty or emotional power. Paintings can be far more complicated than they appear at first glance and difficult to decipher if the viewer doesn’t speak the same tongue. The meaning of art is shaped by the intentions of the artist as well as the feelings and ideas it conveys to the viewer.</description>
+
+			<description>Here are the most famous paintings of all time that are recognized by people all over the world and of all ages. These famous artworks will continue to resonate and leave impressions in the minds of people for centuries to come.The list of famous painters and their paintings in the world also includes the description of these popular paintings, to help understand their significance in art history.</description>
+	</Home>
+	<Gallery>
+
+		<heading_1>Gallery of 12 Most Famous Paintings of All Time</heading_1>
+
+		<The_Mona_Lisa>
+			<img>artwork_1.jpg</img>
+			<painting>The Mona Lisa</painting>
+			<short_description>Italian noblewoman Lisa Del Giocondo, countless hypotheses have been put forth as to the sitter’s identity as well as explanations for...</short_description>
+			<view>
+				<painting>The Mona Lisa</painting>
+			    <img>artwork_1.jpg</img>
+			    <artist>Leonardo da Vinci</artist>
+			    <created>1503</created>
+			    <full_description>Leonardo da Vinci’s woman of mystery has intrigued viewers for centuries. Traditionally identified as Italian noblewoman Lisa Del Giocondo, countless hypotheses have been put forth as to the sitter’s identity as well as explanations for her seemingly enigmatic smile. The portrait shows the subject sitting upright and sideways in a chair, with her face and chest turned slightly towards the viewer: a posture derived from the 'pyramid' image used to depict a sitting Madonna. Her left arm sits comfortably on the armrest of the chair and is clasped by the hand of her right arm which crosses her front. The slightly protective position of her arms, as well as the armrest, creates a sense of distance between sitter and spectator.Extensive multi-spectral imaging conducted by Lumiere Technology in 2006, which uncovered years of varnish, didn’t shed any light as to the reasons behind the Mona Lisa’s facial expression, but it did reveal that her smile was originally broader than it appears today.</full_description>
+			</view>
+		</The_Mona_Lisa>
+
+		<Starry_Night>
+			<img>artwork_2.jpg</img>
+			<painting>Starry Night</painting>
+			<short_description>Van Gogh was seeking respite from plaguing depression at the Saint-Paul asylum in Saint-Rémy in southern France when he painted...</short_description>
+			<view>
+				<painting>Starry Night</painting>
+			    <img>artwork_2.jpg</img>
+			    <artist>Vincent Van Gogh</artist>
+			    <created>1889</created>
+			    <full_description>Van Gogh was seeking respite from plaguing depression at the Saint-Paul asylum in Saint-Rémy in southern France when he painted The Starry Night. It reflects his direct observations of his view of the countryside from his window as well as the memories and emotions this view evoked in him.Starry Night depicts a dreamy interpretation of the artist's asylum room's sweeping view of Saint-Rémy-de-Provence. Though Van Gogh revisited this scene in his work on several occasions,</full_description>
+                <full_description>Starry Night is the only nocturnal study of the view. Thus, in addition to descriptions evident in the myriad of letters he wrote to his brother, Theo, it offers a rare nighttime glimpse into what the artist saw while in isolation. Through the iron-barred window I can make out a square of wheat in an enclosure, he wrote in May of 1889, above which in the morning I see the sunrise in its glory.An end-of-the-world cataclysm invades Van Gogh's Starry Night, one of apocalypse filled with melting aerolites and comets adrift. One has the impression that the artist has expelled his inner conflict onto a canvas. Everything here is brewed in a huge cosmic fusion. The sole exception is the village in the foreground with its architectural elements.</full_description>
+			</view>
+		</Starry_Night>
+
+		<Girl_with_a_Pearl_Earring>
+			<img>artwork_3.jpg</img>
+			<painting>Girl with a Pearl Earring</painting>
+			<short_description>“Girl with a Pearl Earring” has transfixed viewers with her wistful gaze ever since the painting...</short_description>
+			<view>
+				<painting>Girl with a Pearl Earring</painting>
+			    <img>artwork_3.jpg</img>
+			    <artist>Johannes Vermeer</artist>
+			    <created>1665</created>
+			    <full_description>A masterpiece of the Dutch Golden Age, Vermeer’s “Girl with a Pearl Earring” has transfixed viewers with her wistful gaze ever since the painting resurfaced in the late 19th century. Little, however, is known about the young woman who modeled for the portrait. It has been suggested that the girl was Vermeer’s daughter or mistress. While this may be the case, the image wasn’t intended to represent an actual person. The turban worn by the sitter indicates that the piece was intended as a “tronie,” an idealized image cloaked in exotic clothing.</full_description>
+			</view>
+	    </Girl_with_a_Pearl_Earring>
+
+	    <American_Gothic>
+			<img>artwork_4.jpg</img>
+			<painting>American Gothic</painting>
+			<short_description>A national icon and leading exponent of regionalism, “American Gothic” depicts what appears to be a Depression-era farmer and his weathered...</short_description>
+			<view>
+				<painting>American Gothic</painting>
+			    <img>artwork_4.jpg</img>
+			    <artist> Grant Wood</artist>
+			    <created>1930</created>
+			    <full_description>The painting was inspired by a house that Wood saw in southern Iowa. The house can be seen in the background of the painting. Wood then sought out models (his dentist and his sister) to represent the type of person he imagined would live in such a home. The spikes of the three-pronged pitchfork are at the centre of the painting.The figures in the painting have exaggerated long features, reflecting the long gothic window that can be seen behind them. The work that would make him famous, however, was painted after his return to the heartland. A national icon and leading exponent of regionalism, “American Gothic” depicts what appears to be a Depression-era farmer and his weathered wife. Grant intended the couple to represent father and daughter; in reality, they were neither. The man holding the pitchfork was Wood’s dentist, Byron McKeeby, flanked by the artist’s sister, Nan Wood Graham.</full_description>
+			    <full_description>For many people, the exaggerated faces and expressions of the subjects of the painting seem to present a kind of satire of rural American life. It is speculated that Iowans did not take kindly to the image, many expressing severe distaste for the way it represented Iowan life.Wood never clarified whether the image was meant to be sincere or satirising. During his life he made a number of confusing statements in answer to the question. “There is satire in it,” he said, “but only as there is satire in any realistic statement”Grant Wood spent years searching for inspiration in Europe.</full_description>
+			</view>
+	    </American_Gothic>
+
+	    <Arnolfini_Portrait>
+			<img>artwork_5.jpg</img>
+			<painting>Arnolfini Portrait</painting>
+			<short_description>A national icon and leading exponent of regionalism, “American Gothic” depicts what appears to be a Depression-era farmer and his weathered...</short_description>
+			<view>
+				<painting>American Gothic</painting>
+			    <img>artwork_4.jpg</img>
+			    <artist> Grant Wood</artist>
+			    <created>1930</created>
+			    <full_description>The painting was inspired by a house that Wood saw in southern Iowa. The house can be seen in the background of the painting. Wood then sought out models (his dentist and his sister) to represent the type of person he imagined would live in such a home. The spikes of the three-pronged pitchfork are at the centre of the painting.The figures in the painting have exaggerated long features, reflecting the long gothic window that can be seen behind them. The work that would make him famous, however, was painted after his return to the heartland. A national icon and leading exponent of regionalism, “American Gothic” depicts what appears to be a Depression-era farmer and his weathered wife. Grant intended the couple to represent father and daughter; in reality, they were neither. The man holding the pitchfork was Wood’s dentist, Byron McKeeby, flanked by the artist’s sister, Nan Wood Graham.</full_description>
+			    <full_description>For many people, the exaggerated faces and expressions of the subjects of the painting seem to present a kind of satire of rural American life. It is speculated that Iowans did not take kindly to the image, many expressing severe distaste for the way it represented Iowan life.Wood never clarified whether the image was meant to be sincere or satirising. During his life he made a number of confusing statements in answer to the question. “There is satire in it,” he said, “but only as there is satire in any realistic statement”Grant Wood spent years searching for inspiration in Europe.</full_description>
+			</view>
+	    </Arnolfini_Portrait>
+
+	    <Le_Déjeuner_sur_l_herbe>
+			<img>artwork_6.jpg</img>
+			<painting>Le Déjeuner sur l'herbe</painting>
+			<short_description>Edouard Manet’s sensational “Le Déjeuner sur l'herbe” (“The Luncheon on the Grass”) scandalized 19th-century Paris, not for its stark nudity, but because...</short_description>
+			<view>
+				<painting>Le Déjeuner sur l'herbe</painting>
+			    <img>artwork_6.jpg</img>
+			    <artist>Edouard Manet</artist>
+			    <created>1863</created>
+			    <full_description>Edouard Manet’s sensational “Le Déjeuner sur l'herbe” (“The Luncheon on the Grass”) scandalized 19th-century Paris, not for its stark nudity, but because it broke with a long-standing tradition of depicting nudes in classical settings. The Paris Salon rejected the painting, declaring it obscene. Victorine-Louise Meurent, the naked woman staring unapologetically at the viewer, was assumed by many to be a local prostitute; she was actually a sought-after Parisian artist’s model and an accomplished painter in her own right.</full_description>		   
+			</view>
+	    </Le_Déjeuner_sur_l_herbe>
+
+	    <Christinas_World>
+			<img>artwork_7.jpg</img>
+			<painting>Christina’s World</painting>
+			<short_description>Christina’s World” continues to fascinate more than 70 years after it was first painted. The faceless woman lying on the ground was Anna Christina Olson, the neighbor and muse of Pennsylvania artist Andrew Wyeth...</short_description>
+			<view>
+				<painting>Christina’s World</painting>
+			    <img>artwork_7.jpg</img>
+			    <artist>Andrew Wyeth</artist>
+			    <created>1948</created>
+			    <full_description>Christina’s World” continues to fascinate more than 70 years after it was first painted. The faceless woman lying on the ground was Anna Christina Olson, the neighbor and muse of Pennsylvania artist Andrew Wyeth. While the painting has all the hallmarks of a pastoral, Olson’s pose is not one of romantic languor; she suffered from a muscle-wasting disorder, possibly Charcot-Marie-Tooth disease and was known to drag herself across the family homestead.</full_description>		   
+			</view>
+	    </Christinas_World>
+
+	    <The_Persistence_of_Memory>
+			<img>artwork_8.jpg</img>
+			<painting>The Persistence of Memory</painting>
+			<short_description>Surrealist Salvador Dali subverts reality with this mesmerizing image of deflated timepieces scattered over a desert landscape...
+            </short_description>
+			<view>
+				<painting>The Persistence of Memory</painting>
+			    <img>artwork_8.jpg</img>
+			    <artist>Salvador Dali</artist>
+			    <created>1931</created>
+			    <full_description>Surrealist Salvador Dali subverts reality with this mesmerizing image of deflated timepieces scattered over a desert landscape. The composition defies logic, evoking a dream-like state.The main motifs of the painting are melting clocks and ants. The theme is time, expressed in a multitude of meanings. Ants appear as a symbol of decay in Dalí’s works and clock is a symbol of time. Melting clocks suggest that the time is melting, representing its relativity. The painting depicts a landscape, the seaside and cliffs, probably of the artist’s homeland in Catalonia, Spain. In the central part of the composition, there is a being, possibly human, with nose and closed eye, having long eyelashes. The artist was talking about his paintings as they are hand-painted dream photographs. Although the dreams belong to sphere of subconscious, Dalí painted them with incredible precision. Dali employed the “paranoiac-critical method” in his artistic process, self-inducing a delusional state.</full_description>		   
+			</view>
+	    </The_Persistence_of_Memory>
+
+	    <The_Creation_of_Adam>
+			<img>artwork_9.jpg</img>
+			<painting>The Creation of Adam</painting>
+			<short_description>The Creation of Adam is a detailed, incredible work that can be interpreted in many different ways. The image has ...
+            </short_description>
+			<view>
+				<painting>The Creation of Adam</painting>
+			    <img>artwork_9.jpg</img>
+			    <artist>Michelangelo Buonarroti</artist>
+			    <created>1512</created>
+			    <full_description>The Creation of Adam is a detailed, incredible work that can be interpreted in many different ways. The image has a spiritual message that asserts God as creator of humanity, but the image could also have an anatomical meaning as well. Michelangelo’s Creation of Adam, in which God stretches out his finger to endow Adam with the spark of life. In this scene, the two focal characters are set in contrast. Adam is depicted as earthbound and slightly sluggish, while God has a commanding presence and appears to be barreling through the heavens surrounded by a cadre of angels. Yet Adam’s muscular, well-formed body, echoing the position of the Creator, communicates the true significance of the scene that Man is created in the image of God.</full_description>		   
+			</view>
+	    </The_Creation_of_Adam>
+
+	    <Flaming_June>
+			<img>artwork_10.jpg</img>
+			<painting>Flaming June</painting>
+			<short_description>"Flaming June,” of the languid beauty in the transparent orange dress, was painted by esteemed British artist Frederic Leighton at the close of the 19th century...
+            </short_description>
+			<view>
+				<painting>Flaming June</painting>
+			    <img>artwork_10.jpg</img>
+			    <artist>Sir Frederic Leighton</artist>
+			    <created>1895</created>
+			    <full_description>“Flaming June,” of the languid beauty in the transparent orange dress, was painted by esteemed British artist Frederic Leighton at the close of the 19th century. The painting disappeared soon after, only to reemerge in the early 1960s when it was supposedly discovered in a chimney by a laborer working at a construction site. Considered highly unfashionable at the time, the painting failed to make reserve when it came to auction. It was acquired soon after by Puerto Rico’s Museo de Arte de Ponce, where it remains to this day.</full_description>		   
+			</view>
+	    </Flaming_June>
+
+	    <Primavera>
+			<img>artwork_11.jpg</img>
+			<painting>Primavera</painting>
+			<short_description>Primavera is an allegorical work inspired by classical mythology, depicting the transformation of the nymph Chloris into Flora, the goddess of spring...
+            </short_description>
+			<view>
+				<painting>Primavera</painting>
+			    <img>artwork_11.jpg</img>
+			    <artist>Sandro Botticelli</artist>
+			    <created>1477–1482</created>
+			    <full_description>“Primavera” is an allegorical work inspired by classical mythology, depicting the transformation of the nymph Chloris into Flora, the goddess of spring. Commissioned by a member of the powerful Medici clan, it has been suggested that figures in the composition were modeled on members of the family. It is important to note that Venus is represented here as a goddess of marriage, fully clothed and with her modest hairstyle, as married women were expected to appear in public. She is traditionally followed by the Three Graces (Pleasure, Chastity, and Beauty), sisters that are usually nude and stand with joined hands; however, their attire in Primavera is also adjusted to the Venus. This depiction is probably based on the Seneca adaptation by Leon Battista Alberti in his influential book De pictura that Botticelli definitely knew.</full_description>		   
+			</view>
+	    </Primavera>
+
+	    <The_Son_of_Man>
+			<img>artwork_12.jpg</img>
+			<painting>The Son of Man</painting>
+			<short_description>The meaning of the painting is cryptic, but one can extrapolate some meaning from the words of Magritte himself. He spoke specifically of that feeling of...
+            </short_description>
+			<view>
+				<painting>The Son of Man</painting>
+			    <img>artwork_12.jpg</img>
+			    <artist>René Magritte</artist>
+			    <created>1964</created>
+			    <full_description>“The meaning of the painting is cryptic, but one can extrapolate some meaning from the words of Magritte himself. He spoke specifically of that feeling of human curiosity, where one seeks to see the hidden things that exist behind the other objects that we see, but one is often frustrated in this pursuit. The painting appears to capture this frustration or “conflict,” as Magritte put it by allowing us only a slight glimpse of the man's face behind the fruit. The deeper meaning of this conflict, and whether it speaks of the incidental hiddenness of objects behind other objects, or whether it speaks of the human conflict of wanting to hide ones true face from the prying eyes of others, is up to interpretation. At face value, however, it is an interesting exercise in stirring the curiosity of the viewer and making him feel as if he is not seeing the whole picture, leaving him slightly unsatisfied and with a sense of mystery about what he has seen.</full_description>		   
+			</view>
+	    </The_Son_of_Man>
+    
+	</Gallery>
+
+	<About>
+		<img>Logo.png</img>
+		<description>ArtsyCraftsy is your ultimate source, dedicated to providing art lovers with the best source of the Famous Paintings Of All Time In The History Of Art. I hope you appreciate the most excellent paintings, the greatest hand-paintings by our famous artists.</description>
+		<contact>If you have any remarks or questions about the website don’t hesitate to contact us through mail at:</contact>
+		<email>ArtsyCraftsy@gmail.com</email>
+	</About>
+
+</ArtsyCraftsy>
